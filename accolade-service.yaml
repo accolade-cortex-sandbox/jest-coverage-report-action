@@ -1,7 +1,7 @@
 openapi: 3.0.1
 info:
   title: jest-coverage-report-action
-  description: Fork of ArtiomTr-jest-coverage-report-action
+  description: Fork of ArtiomTr-jest-coverage-report-action 
   x-cortex-tag: jest-coverage-report-action
   x-cortex-type: github-actions
   x-cortex-groups:
